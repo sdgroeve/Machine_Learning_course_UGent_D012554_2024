@@ -35,4 +35,8 @@ Follow these steps to set up Anaconda and run Jupyter Notebooks in Visual Studio
 
 - Run notebook cells using the run button or by pressing `Shift+Enter`.
 
+### 6. Integreate GitHub Co-Pilot AI code assitant
+
+- Follow these insutructions: https://docs.github.com/en/copilot/quickstart.
+
 This setup integrates Anaconda's powerful environment management with Visual Studio Code's rich editing features, providing a robust platform for Python development and data analysis.
