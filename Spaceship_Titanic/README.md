@@ -7,7 +7,7 @@ Note, your task is to build a model that uses **only four** features from the or
 
 **Tools and Platform**
 
-You are required to complete this assignment on Kaggle, using their Jupyter Notebook environment. 
+You can use any tool or platform for this analysis. However, a final notebook needs be created on the Kaggle platform that loads and pre-processes the data, builds the final model using the 8 feature encodings, and writes a submmsion file with predicitons for the test set.
 
 **Dataset**
 
@@ -79,6 +79,6 @@ Performance of the model on the test set (as per the leaderboard).
 
 **Deadline**
 
-The notebook must be completed and set to public by March 1, YYYY.
+TBA
 
 This assignment will not only test your ability to handle real-world datasets but also your creativity in feature engineering and your proficiency in building effective models. Good luck!
