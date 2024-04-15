@@ -3,7 +3,7 @@
 **Objective**
 
 The goal of this assignment is to build a predictive model from the Spaceship Titanic dataset on Kaggle, which will be evaluated based on its performance on the provided test set (leaderboard). 
-Note, your task is to build a model that uses **only four** features from the original dataset and **four additional** engineered features. One-hot or other categorical-to-numerical encodings are counted as one feature. The final model should use these eight feature encodings to predict whether a passenger was transported to an alternate dimension.
+Note, your task is to build a model that uses **only four** features from the original dataset and **four additional** engineered features. One-hot or other categorical-to-numerical encodings are counted as one feature. The final model should use only these eight feature encodings to predict whether a passenger was transported to an alternate dimension.
 
 **Tools and Platform**
 
