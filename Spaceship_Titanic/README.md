@@ -1,4 +1,4 @@
-# Feature Engineering and Model Building Challenge
+# Feature Engineering and Model Building
 
 **Objective**
 
