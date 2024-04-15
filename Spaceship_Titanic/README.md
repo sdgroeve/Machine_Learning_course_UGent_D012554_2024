@@ -1,13 +1,15 @@
-# Feature Engineering and Model Building Challenge
+# Feature Engineering and Model Building
 
 **Objective**
 
-The goal of this assignment is to build a predictive model from the Spaceship Titanic dataset on Kaggle, which will be evaluated based on its performance on the provided test set (leaderboard). 
-Note, your task is to build a model that uses **only four** features from the original dataset and **four additional** engineered features. One-hot or other categorical-to-numerical encodings are counted as one feature. The final model should use these eight feature encodings to predict whether a passenger was transported to an alternate dimension.
+The goal of this assignment is to build a predictive model from the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) dataset on Kaggle, which will be evaluated based on its performance on the provided test set (leaderboard). 
+Note, your task is to build a model that uses **only four** features from the original dataset and **four additional** engineered features. One-hot or other categorical-to-numerical encodings are counted as one feature. The final model should use only these eight feature encodings to predict whether a passenger was transported to an alternate dimension.
+
+Kaggle provides a starter script for this competition [here](https://www.kaggle.com/code/gusthema/spaceship-titanic-with-tfdf/notebook).
 
 **Tools and Platform**
 
-You are required to complete this assignment on Kaggle, using their Jupyter Notebook environment. 
+You can use any tool or platform for this analysis. However, a final notebook needs be created on the Kaggle platform that loads and pre-processes the data, builds the final model using the 8 feature encodings, and writes a submmsion file with predicitons for the test set.
 
 **Dataset**
 
@@ -79,6 +81,6 @@ Performance of the model on the test set (as per the leaderboard).
 
 **Deadline**
 
-The notebook must be completed and set to public by March 1, YYYY.
+TBA
 
 This assignment will not only test your ability to handle real-world datasets but also your creativity in feature engineering and your proficiency in building effective models. Good luck!
