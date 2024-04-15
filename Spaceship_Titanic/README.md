@@ -5,6 +5,8 @@
 The goal of this assignment is to build a predictive model from the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) dataset on Kaggle, which will be evaluated based on its performance on the provided test set (leaderboard). 
 Note, your task is to build a model that uses **only four** features from the original dataset and **four additional** engineered features. One-hot or other categorical-to-numerical encodings are counted as one feature. The final model should use only these eight feature encodings to predict whether a passenger was transported to an alternate dimension.
 
+Kaggle provides a starter script for this competition [here](https://www.kaggle.com/code/gusthema/spaceship-titanic-with-tfdf/notebook).
+
 **Tools and Platform**
 
 You can use any tool or platform for this analysis. However, a final notebook needs be created on the Kaggle platform that loads and pre-processes the data, builds the final model using the 8 feature encodings, and writes a submmsion file with predicitons for the test set.
