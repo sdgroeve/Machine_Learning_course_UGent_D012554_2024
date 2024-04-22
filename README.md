@@ -44,4 +44,5 @@ This setup integrates Anaconda's powerful environment management with Visual Stu
 ## Kaggle notebooks:
 
 From logistic regression to CNN: https://www.kaggle.com/code/svendegroeve/d012554-lr-cnn
+
 Cats versus dogs dataset notebook: https://www.kaggle.com/code/svendegroeve/d012554-cats-and-dogs
