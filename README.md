@@ -40,3 +40,7 @@ Follow these steps to set up Anaconda and run Jupyter Notebooks in Visual Studio
 - Follow these insutructions: https://docs.github.com/en/copilot/quickstart.
 
 This setup integrates Anaconda's powerful environment management with Visual Studio Code's rich editing features, providing a robust platform for Python development and data analysis.
+
+## Kaggle notebooks:
+
+From logistic regression to CNN: https://www.kaggle.com/code/svendegroeve/d012554-lr-cnn
